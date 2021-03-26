@@ -4,7 +4,7 @@ class Data:
         'colorful',
         'slow-paced',
         'melancholy',
-        'fantastical',
+        'fantastical'
     ]
     game_types = [
         'a platformer',
@@ -29,7 +29,9 @@ class Data:
         'a firefighter',
         'an astronaut',
         'a student',
-        'a member of the Manchester Underground'
+        'a member of the Manchester Underground',
+        'robber',
+        'barman'
     ]
     player_from_local = [
         'a small village',
@@ -43,14 +45,22 @@ class Data:
         'up in the hills somewhere',
         'on the rainbow road',
         'in the center of a sprawling metropolis',
-        'deep in lala land',
+        'deep in lala land'
     ]
     goal_verb = [
         'acquire',
         'steal',
         'find',
         'get',
-        'study'
+        'study',
+        'inspect',
+        'rescue',
+        'defeat',
+        'kill',
+        'fight',
+        'swim',
+        'run',
+        'solve'
     ]
     goal_target = [
         'a rare gemstone',
@@ -61,7 +71,13 @@ class Data:
         'an ancient text',
         'your pet named Billy',
         'a nearly extinct species',
-        'a magical amulet'
+        'a magical amulet',
+        'a gun',
+        'a cake',
+        'an armor',
+        'a shirt',
+        'a princess',
+        'a mystery book'
     ]
     bad_guy_interaction = [
         'evading',
@@ -72,7 +88,10 @@ class Data:
         'dealing with',
         'conversing with',
         'disagreeing with',
-        'laughing at'
+        'laughing at',
+        'kicking',
+        'throwing',
+        'outsmarting'
     ]
     bad_guy_adjective = [
         'furious',
@@ -81,7 +100,9 @@ class Data:
         'dark-magical',
         'rather calm',
         'bedeviling',
-        'multifaceted'
+        'multifaceted',
+        'puny',
+        'slippery'
     ]
     bad_guy_type = [
         'a gremlin',
@@ -93,6 +114,12 @@ class Data:
         'a swarm of insects',
         'an evil AI',
         'a hoard of turtles',
+        'an ogre',
+        'a gragon',
+        'a gigantic snake',
+        'a king',
+        'a queen',
+        'a student'
     ]
     bad_guy_from = [
         'the other side of town',
@@ -100,4 +127,8 @@ class Data:
         'the south of France',
         'frigid Antarctica',
         'a wizard tower',
+        'a dark cave',
+        'a neighboring country',
+        'local university',
+        'different university'
     ]
